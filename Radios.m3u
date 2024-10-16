@@ -1,13 +1,10 @@
 #EXTM3U
-#EXTINF:-1,RADIO PARA TI
-https://streaming.prositel.cl/8102//stream
-#EXTLOGO:https://pbs.twimg.com/profile_images/1788208772269105152/UQlz1QNU_400x400.jpg
-#EXTINF:-1,RADIO LUBNA
-https://audio1.tustreaming.cl/7000/stream
-#EXTLOGO:https://www.radiolubna.cl/web/images/logonew2.png
-#EXTINF:-1,RADIO FM MUSIC
-https://stream.fmmusic.cl/9980/stream
-#EXTLOGO:https://cdn-radiotime-logos.tunein.com/s189754g.png
-#EXTINF:-1,RADIO PUANGUE
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBN20nV/Sin-t-tulo-1.png", Radio Puangue
 https://sonic.portalfoxmix.club/8192/stream
-#EXTLOGO:https://i.postimg.cc/XJBN20nV/Sin-t-tulo-1.png
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s189754g.png", Fm Music
+https://stream.fmmusic.cl/9980/stream
+
+#EXTINF:-1 tvg-logo="https://www.radiolubna.cl/web/images/logonew2.png", Radio Lubna
+https://audio1.tustreaming.cl/7000/stream
