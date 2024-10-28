@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mega" tvg-logo="http://url_del_logo/canal1.png", mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chilevision" tvg-logo="http://url_del_logo/canal2.png", Chilevision
+https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?access_token=gPqoLPzJOv36cKtYUpf0Ri5nBun7DXoMuStFKTZFQZk8tuGnWxUm4EhU8yc1IB9dI0uXQn0C25F
+
+#EXTINF:-1 tvg-id="cana13" tvg-logo="http://url_del_logo/canal1.png", Canal13
+https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvn" tvg-logo="http://url_del_logo/canal2.png", tvn
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=aEkpnDLfS26de5m4NC7W5vSqgXGkzxYLhfdm30Kii1SDsRkeGfNPcdMoAJGgZ2a6Uh9icqWHPE5
+
+#EXTINF:-1 tvg-id="tv+" tvg-logo="http://url_del_logo/canal1.png", tv+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF:-1 tvg-id="ucv" tvg-logo="http://url_del_logo/canal2.png", ucv
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lared" tvg-logo="http://url_del_logo/canal1.png", lared
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="wapptv" tvg-logo="http://url_del_logo/canal2.png", wapptv
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/.m3u8
